@@ -1,1 +1,1 @@
-# Vegan Stir Fry HTML CSS Project
+# Vegan Stir Fry 
