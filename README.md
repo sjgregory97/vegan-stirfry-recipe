@@ -1,1 +1,1 @@
-# vegan-stirfry-recipe
+# Vegan Stir Fry HTML CSS Project
